@@ -1,4 +1,4 @@
-# Ajinkya Bhanpurkar Portfolio
+# Hanma's Portfolio
 
 Welcome to my portfolio website showcasing my skills, projects, and certifications. This website is designed to provide an overview of my work in the field of cybersecurity and development.
 
